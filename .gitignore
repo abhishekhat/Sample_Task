@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+checkpoints/
+data/
+
+*.h5
+*.keras
+
+.vscode/
+.idea/
